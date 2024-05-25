@@ -12,4 +12,5 @@ In my final task, I created a user-friendly Library Management System which perf
 2. Search the Book for the user in the database.
 3. Checks out a Book for borrower.
 4. Records Books return, Updates Availability Status and calculates Fine for overdue Books (Fine of ₹75 per month is imposed for late submission of books for a year. After one year, the borrower have to pay in total ₹1000 for late submission).
+
 The program displays the operation menu and asks the user to choose any operation to perform. Then it performs that operation by asking the necessary details from user and at last displays a completion message.
